@@ -1,5 +1,5 @@
 require 'devil'
 
-puts "pleas enter your the folder you whant to search in"
+puts "Enter your the file sort you whant to search for (not .gif abel)"
 
 x = gets.chomp
